@@ -40,7 +40,7 @@ THEN I should have proper build scripts for a webpack application
 ```
 
 ## Preview:
-
+![alt text](./images/Screenshot%202022-09-10%20at%2002.02.32.png)
 ## Deployed link
 https://safe-plains-92787.herokuapp.com
 
